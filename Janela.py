@@ -308,6 +308,6 @@ class Janela():
 #inicializaçao da janela
 root = Tk()
 Janela(root)
-root.title("Dioner | Gustavo | Felipe") #seta o titulo
+root.title("Simulador de Automato Finito") #seta o titulo
 #root.geometry("800x400+200+200")
 root.mainloop() #inicia o loop
